@@ -7,3 +7,9 @@
 ## License
 
 MIT © Jaewe Heo
+
+## 🔗 This workflow is converted from [alfred-workflow](https://github.com/importre/alfred-gi).
+
+* Note that there might be some code change or different actions from the original workflow.
+
+* Marked original workflow's creator to author.
