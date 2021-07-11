@@ -1,0 +1,30 @@
+{
+  "name": "arvis-gitignore",
+  "description": "Arvis workflow to find `*.gitignore` files from https://goo.gl/hx0XE",
+  "version": "0.0.2",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "postinstall": "arvish-init",
+    "preuninstall": "arvish-cleanup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/importre/arvis-gi.git"
+  },
+  "keywords": [
+    "arvis",
+    "arvish",
+    "arvis-workflow"
+  ],
+  "author": "importre",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/importre/arvis-gi/issues"
+  },
+  "homepage": "https://github.com/importre/arvis-gi#readme",
+  "dependencies": {
+    "arvish": ">=0.5.2",
+    "got": "^6.3.0"
+  }
+}
