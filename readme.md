@@ -1,4 +1,4 @@
-# arvis-gi
+# arvis-gitignore
 
 > arvis workflow to find `*.gitignore` files from [github/gitignore](https://goo.gl/hx0XE)
 
